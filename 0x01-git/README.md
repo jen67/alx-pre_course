@@ -1,1 +1,2 @@
-It’s time to code!
+ Updated README file  
+ It’s time to code!
